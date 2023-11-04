@@ -1,0 +1,16 @@
+C:\Users\abhis\Desktop\c#\WinformApp1\WinformApp1\bin\Debug\net6.0-windows\WinformApp1.exe
+C:\Users\abhis\Desktop\c#\WinformApp1\WinformApp1\bin\Debug\net6.0-windows\WinformApp1.deps.json
+C:\Users\abhis\Desktop\c#\WinformApp1\WinformApp1\bin\Debug\net6.0-windows\WinformApp1.runtimeconfig.json
+C:\Users\abhis\Desktop\c#\WinformApp1\WinformApp1\bin\Debug\net6.0-windows\WinformApp1.dll
+C:\Users\abhis\Desktop\c#\WinformApp1\WinformApp1\bin\Debug\net6.0-windows\WinformApp1.pdb
+C:\Users\abhis\Desktop\c#\WinformApp1\WinformApp1\obj\Debug\net6.0-windows\WinformApp1.Form2.resources
+C:\Users\abhis\Desktop\c#\WinformApp1\WinformApp1\obj\Debug\net6.0-windows\WinformApp1.csproj.GenerateResource.cache
+C:\Users\abhis\Desktop\c#\WinformApp1\WinformApp1\obj\Debug\net6.0-windows\WinformApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhis\Desktop\c#\WinformApp1\WinformApp1\obj\Debug\net6.0-windows\WinformApp1.AssemblyInfoInputs.cache
+C:\Users\abhis\Desktop\c#\WinformApp1\WinformApp1\obj\Debug\net6.0-windows\WinformApp1.AssemblyInfo.cs
+C:\Users\abhis\Desktop\c#\WinformApp1\WinformApp1\obj\Debug\net6.0-windows\WinformApp1.csproj.CoreCompileInputs.cache
+C:\Users\abhis\Desktop\c#\WinformApp1\WinformApp1\obj\Debug\net6.0-windows\WinformApp1.dll
+C:\Users\abhis\Desktop\c#\WinformApp1\WinformApp1\obj\Debug\net6.0-windows\refint\WinformApp1.dll
+C:\Users\abhis\Desktop\c#\WinformApp1\WinformApp1\obj\Debug\net6.0-windows\WinformApp1.pdb
+C:\Users\abhis\Desktop\c#\WinformApp1\WinformApp1\obj\Debug\net6.0-windows\WinformApp1.genruntimeconfig.cache
+C:\Users\abhis\Desktop\c#\WinformApp1\WinformApp1\obj\Debug\net6.0-windows\ref\WinformApp1.dll
